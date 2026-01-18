@@ -1,0 +1,33 @@
+
+.DS_Store
+__pycache__
+.ipynb_checkpoints/
+
+
+# /logs
+/dataset
+/save_model
+
+*.nc
+*.pth
+*.png
+*.csv
+*.npz
+*.npy
+*.params
+*.json
+*.pptx
+*.html
+# *.log
+*.tar.xz
+*.zip
+
+wandb
+
+
+# block
+configs
+.cursor
+./save_model
+
+._*

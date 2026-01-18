@@ -1,0 +1,302 @@
+2026-01-01 02:44:02,365 [root] [INFO] using device: cuda
+2026-01-01 02:44:13,296 [training] [INFO] training_size: 130527, testing_size: 14502
+2026-01-01 02:44:15,320 [training] [INFO] start training epochs 1
+2026-01-01 02:44:19,635 [training] [INFO] training steps: 100, Loss: 2.3559
+2026-01-01 02:44:22,970 [training] [INFO] training steps: 200, Loss: 3.5309
+2026-01-01 02:44:26,314 [training] [INFO] training steps: 300, Loss: 1.8308
+2026-01-01 02:44:29,655 [training] [INFO] training steps: 400, Loss: 3.0184
+2026-01-01 02:44:32,998 [training] [INFO] training steps: 500, Loss: 1.2274
+2026-01-01 02:44:33,386 [training] [INFO] epoch 1 train loss:3.9911652553315258
+2026-01-01 02:44:34,525 [training] [INFO] epoch 1 test loss:1.6868
+2026-01-01 02:44:34,525 [training] [INFO] start training epochs 2
+2026-01-01 02:44:38,052 [training] [INFO] training steps: 600, Loss: 1.2898
+2026-01-01 02:44:41,373 [training] [INFO] training steps: 700, Loss: 2.1828
+2026-01-01 02:44:44,695 [training] [INFO] training steps: 800, Loss: 1.1363
+2026-01-01 02:44:48,023 [training] [INFO] training steps: 900, Loss: 1.0683
+2026-01-01 02:44:51,365 [training] [INFO] training steps: 1000, Loss: 1.8689
+2026-01-01 02:44:52,067 [training] [INFO] epoch 2 train loss:1.6524240801147385
+2026-01-01 02:44:53,174 [training] [INFO] epoch 2 test loss:1.2502
+2026-01-01 02:44:53,175 [training] [INFO] start training epochs 3
+2026-01-01 02:44:56,395 [training] [INFO] training steps: 1100, Loss: 1.5063
+2026-01-01 02:44:59,721 [training] [INFO] training steps: 1200, Loss: 1.0721
+2026-01-01 02:45:03,054 [training] [INFO] training steps: 1300, Loss: 2.1523
+2026-01-01 02:45:06,397 [training] [INFO] training steps: 1400, Loss: 1.4616
+2026-01-01 02:45:09,739 [training] [INFO] training steps: 1500, Loss: 1.1895
+2026-01-01 02:45:10,767 [training] [INFO] epoch 3 train loss:1.4282038982008018
+2026-01-01 02:45:11,873 [training] [INFO] epoch 3 test loss:1.2277
+2026-01-01 02:45:11,874 [training] [INFO] start training epochs 4
+2026-01-01 02:45:14,748 [training] [INFO] training steps: 1600, Loss: 1.5050
+2026-01-01 02:45:18,076 [training] [INFO] training steps: 1700, Loss: 1.0878
+2026-01-01 02:45:21,401 [training] [INFO] training steps: 1800, Loss: 2.8334
+2026-01-01 02:45:24,736 [training] [INFO] training steps: 1900, Loss: 0.8303
+2026-01-01 02:45:28,073 [training] [INFO] training steps: 2000, Loss: 3.0866
+2026-01-01 02:45:29,439 [training] [INFO] epoch 4 train loss:1.3116673366696228
+2026-01-01 02:45:30,551 [training] [INFO] epoch 4 test loss:2.6618
+2026-01-01 02:45:30,551 [training] [INFO] start training epochs 5
+2026-01-01 02:45:33,105 [training] [INFO] training steps: 2100, Loss: 0.8834
+2026-01-01 02:45:36,443 [training] [INFO] training steps: 2200, Loss: 1.0231
+2026-01-01 02:45:39,776 [training] [INFO] training steps: 2300, Loss: 0.8396
+2026-01-01 02:45:43,103 [training] [INFO] training steps: 2400, Loss: 0.6342
+2026-01-01 02:45:46,458 [training] [INFO] training steps: 2500, Loss: 1.1380
+2026-01-01 02:45:48,157 [training] [INFO] epoch 5 train loss:1.2061442303891274
+2026-01-01 02:45:49,295 [training] [INFO] epoch 5 test loss:0.8229
+2026-01-01 02:45:49,295 [training] [INFO] start training epochs 6
+2026-01-01 02:45:51,532 [training] [INFO] training steps: 2600, Loss: 1.0860
+2026-01-01 02:45:54,882 [training] [INFO] training steps: 2700, Loss: 1.1523
+2026-01-01 02:45:58,233 [training] [INFO] training steps: 2800, Loss: 0.6867
+2026-01-01 02:46:01,584 [training] [INFO] training steps: 2900, Loss: 0.8210
+2026-01-01 02:46:04,931 [training] [INFO] training steps: 3000, Loss: 0.7968
+2026-01-01 02:46:06,974 [training] [INFO] epoch 6 train loss:1.048859821756681
+2026-01-01 02:46:08,081 [training] [INFO] epoch 6 test loss:1.3153
+2026-01-01 02:46:08,081 [training] [INFO] start training epochs 7
+2026-01-01 02:46:09,963 [training] [INFO] training steps: 3100, Loss: 1.3423
+2026-01-01 02:46:13,306 [training] [INFO] training steps: 3200, Loss: 1.2921
+2026-01-01 02:46:16,632 [training] [INFO] training steps: 3300, Loss: 0.9893
+2026-01-01 02:46:19,972 [training] [INFO] training steps: 3400, Loss: 0.8595
+2026-01-01 02:46:23,317 [training] [INFO] training steps: 3500, Loss: 0.9626
+2026-01-01 02:46:25,682 [training] [INFO] epoch 7 train loss:1.0525385160656537
+2026-01-01 02:46:26,809 [training] [INFO] epoch 7 test loss:1.0684
+2026-01-01 02:46:26,810 [training] [INFO] start training epochs 8
+2026-01-01 02:46:28,374 [training] [INFO] training steps: 3600, Loss: 0.8013
+2026-01-01 02:46:31,709 [training] [INFO] training steps: 3700, Loss: 0.8294
+2026-01-01 02:46:35,046 [training] [INFO] training steps: 3800, Loss: 0.8531
+2026-01-01 02:46:38,387 [training] [INFO] training steps: 3900, Loss: 0.9089
+2026-01-01 02:46:41,717 [training] [INFO] training steps: 4000, Loss: 0.6655
+2026-01-01 02:46:44,410 [training] [INFO] epoch 8 train loss:0.9193273925898122
+2026-01-01 02:46:45,531 [training] [INFO] epoch 8 test loss:0.7281
+2026-01-01 02:46:45,531 [training] [INFO] start training epochs 9
+2026-01-01 02:46:46,737 [training] [INFO] training steps: 4100, Loss: 0.8332
+2026-01-01 02:46:50,075 [training] [INFO] training steps: 4200, Loss: 0.6845
+2026-01-01 02:46:53,412 [training] [INFO] training steps: 4300, Loss: 0.8165
+2026-01-01 02:46:56,751 [training] [INFO] training steps: 4400, Loss: 0.6496
+2026-01-01 02:47:00,096 [training] [INFO] training steps: 4500, Loss: 0.7378
+2026-01-01 02:47:03,139 [training] [INFO] epoch 9 train loss:0.9108286227081336
+2026-01-01 02:47:04,233 [training] [INFO] epoch 9 test loss:1.1162
+2026-01-01 02:47:04,233 [training] [INFO] start training epochs 10
+2026-01-01 02:47:05,109 [training] [INFO] training steps: 4600, Loss: 0.7805
+2026-01-01 02:47:08,462 [training] [INFO] training steps: 4700, Loss: 1.0670
+2026-01-01 02:47:11,814 [training] [INFO] training steps: 4800, Loss: 0.6809
+2026-01-01 02:47:15,151 [training] [INFO] training steps: 4900, Loss: 0.8067
+2026-01-01 02:47:18,541 [training] [INFO] training steps: 5000, Loss: 1.0136
+2026-01-01 02:47:21,942 [training] [INFO] training steps: 5100, Loss: 0.8835
+2026-01-01 02:47:21,964 [training] [INFO] epoch 10 train loss:0.9166828932131038
+2026-01-01 02:47:23,112 [training] [INFO] epoch 10 test loss:0.9059
+2026-01-01 02:47:23,112 [training] [INFO] start training epochs 11
+2026-01-01 02:47:27,052 [training] [INFO] training steps: 5200, Loss: 0.5588
+2026-01-01 02:47:30,416 [training] [INFO] training steps: 5300, Loss: 0.8224
+2026-01-01 02:47:33,773 [training] [INFO] training steps: 5400, Loss: 1.3322
+2026-01-01 02:47:37,119 [training] [INFO] training steps: 5500, Loss: 0.5271
+2026-01-01 02:47:40,486 [training] [INFO] training steps: 5600, Loss: 0.6279
+2026-01-01 02:47:40,856 [training] [INFO] epoch 11 train loss:0.8425421445977455
+2026-01-01 02:47:41,997 [training] [INFO] epoch 11 test loss:1.3361
+2026-01-01 02:47:41,998 [training] [INFO] start training epochs 12
+2026-01-01 02:47:45,564 [training] [INFO] training steps: 5700, Loss: 0.7390
+2026-01-01 02:47:48,916 [training] [INFO] training steps: 5800, Loss: 0.5942
+2026-01-01 02:47:52,272 [training] [INFO] training steps: 5900, Loss: 0.6005
+2026-01-01 02:47:55,648 [training] [INFO] training steps: 6000, Loss: 0.4727
+2026-01-01 02:47:59,008 [training] [INFO] training steps: 6100, Loss: 0.7288
+2026-01-01 02:47:59,714 [training] [INFO] epoch 12 train loss:0.879441803226284
+2026-01-01 02:48:00,845 [training] [INFO] epoch 12 test loss:0.8846
+2026-01-01 02:48:00,845 [training] [INFO] start training epochs 13
+2026-01-01 02:48:04,046 [training] [INFO] training steps: 6200, Loss: 0.6166
+2026-01-01 02:48:07,406 [training] [INFO] training steps: 6300, Loss: 1.6621
+2026-01-01 02:48:10,786 [training] [INFO] training steps: 6400, Loss: 0.8886
+2026-01-01 02:48:14,162 [training] [INFO] training steps: 6500, Loss: 0.5266
+2026-01-01 02:48:17,518 [training] [INFO] training steps: 6600, Loss: 0.7772
+2026-01-01 02:48:18,554 [training] [INFO] epoch 13 train loss:0.7722743951222476
+2026-01-01 02:48:19,702 [training] [INFO] epoch 13 test loss:1.2868
+2026-01-01 02:48:19,703 [training] [INFO] start training epochs 14
+2026-01-01 02:48:22,628 [training] [INFO] training steps: 6700, Loss: 0.9356
+2026-01-01 02:48:25,997 [training] [INFO] training steps: 6800, Loss: 0.4741
+2026-01-01 02:48:29,376 [training] [INFO] training steps: 6900, Loss: 0.8584
+2026-01-01 02:48:32,743 [training] [INFO] training steps: 7000, Loss: 0.4920
+2026-01-01 02:48:36,106 [training] [INFO] training steps: 7100, Loss: 2.7690
+2026-01-01 02:48:37,489 [training] [INFO] epoch 14 train loss:0.7764489742470723
+2026-01-01 02:48:38,620 [training] [INFO] epoch 14 test loss:0.6966
+2026-01-01 02:48:38,621 [training] [INFO] start training epochs 15
+2026-01-01 02:48:41,167 [training] [INFO] training steps: 7200, Loss: 2.3766
+2026-01-01 02:48:44,542 [training] [INFO] training steps: 7300, Loss: 0.7404
+2026-01-01 02:48:47,902 [training] [INFO] training steps: 7400, Loss: 0.7028
+2026-01-01 02:48:51,262 [training] [INFO] training steps: 7500, Loss: 0.6946
+2026-01-01 02:48:54,654 [training] [INFO] training steps: 7600, Loss: 0.9748
+2026-01-01 02:48:56,402 [training] [INFO] epoch 15 train loss:0.7568595483606937
+2026-01-01 02:48:57,549 [training] [INFO] epoch 15 test loss:0.7812
+2026-01-01 02:48:57,550 [training] [INFO] start training epochs 16
+2026-01-01 02:48:59,807 [training] [INFO] training steps: 7700, Loss: 0.5984
+2026-01-01 02:49:03,203 [training] [INFO] training steps: 7800, Loss: 0.6462
+2026-01-01 02:49:06,599 [training] [INFO] training steps: 7900, Loss: 0.5590
+2026-01-01 02:49:09,983 [training] [INFO] training steps: 8000, Loss: 0.4659
+2026-01-01 02:49:13,359 [training] [INFO] training steps: 8100, Loss: 0.7822
+2026-01-01 02:49:15,430 [training] [INFO] epoch 16 train loss:0.7318339599698198
+2026-01-01 02:49:16,585 [training] [INFO] epoch 16 test loss:0.7544
+2026-01-01 02:49:16,586 [training] [INFO] start training epochs 17
+2026-01-01 02:49:18,462 [training] [INFO] training steps: 8200, Loss: 0.7230
+2026-01-01 02:49:21,816 [training] [INFO] training steps: 8300, Loss: 0.7986
+2026-01-01 02:49:25,176 [training] [INFO] training steps: 8400, Loss: 0.8384
+2026-01-01 02:49:28,558 [training] [INFO] training steps: 8500, Loss: 1.0055
+2026-01-01 02:49:31,915 [training] [INFO] training steps: 8600, Loss: 0.4918
+2026-01-01 02:49:34,310 [training] [INFO] epoch 17 train loss:0.7250438038624969
+2026-01-01 02:49:35,469 [training] [INFO] epoch 17 test loss:0.5511
+2026-01-01 02:49:35,470 [training] [INFO] start training epochs 18
+2026-01-01 02:49:37,041 [training] [INFO] training steps: 8700, Loss: 0.8137
+2026-01-01 02:49:40,407 [training] [INFO] training steps: 8800, Loss: 0.4986
+2026-01-01 02:49:43,805 [training] [INFO] training steps: 8900, Loss: 0.7012
+2026-01-01 02:49:47,178 [training] [INFO] training steps: 9000, Loss: 0.5924
+2026-01-01 02:49:50,556 [training] [INFO] training steps: 9100, Loss: 0.6824
+2026-01-01 02:49:53,294 [training] [INFO] epoch 18 train loss:0.7563451443817101
+2026-01-01 02:49:54,441 [training] [INFO] epoch 18 test loss:0.5768
+2026-01-01 02:49:54,441 [training] [INFO] start training epochs 19
+2026-01-01 02:49:55,645 [training] [INFO] training steps: 9200, Loss: 0.5967
+2026-01-01 02:49:58,996 [training] [INFO] training steps: 9300, Loss: 0.5344
+2026-01-01 02:50:02,352 [training] [INFO] training steps: 9400, Loss: 0.6290
+2026-01-01 02:50:05,706 [training] [INFO] training steps: 9500, Loss: 0.6671
+2026-01-01 02:50:09,073 [training] [INFO] training steps: 9600, Loss: 0.6728
+2026-01-01 02:50:12,128 [training] [INFO] epoch 19 train loss:0.6950151461012223
+2026-01-01 02:50:13,270 [training] [INFO] epoch 19 test loss:0.9330
+2026-01-01 02:50:13,271 [training] [INFO] start training epochs 20
+2026-01-01 02:50:14,145 [training] [INFO] training steps: 9700, Loss: 0.5651
+2026-01-01 02:50:17,534 [training] [INFO] training steps: 9800, Loss: 0.4385
+2026-01-01 02:50:20,940 [training] [INFO] training steps: 9900, Loss: 0.5073
+2026-01-01 02:50:24,327 [training] [INFO] training steps: 10000, Loss: 0.4447
+2026-01-01 02:50:27,716 [training] [INFO] training steps: 10100, Loss: 0.5448
+2026-01-01 02:50:31,113 [training] [INFO] training steps: 10200, Loss: 0.7266
+2026-01-01 02:50:31,135 [training] [INFO] epoch 20 train loss:0.6691692237760506
+2026-01-01 02:50:32,245 [training] [INFO] epoch 20 test loss:0.7593
+2026-01-01 02:50:32,245 [training] [INFO] start training epochs 21
+2026-01-01 02:50:36,182 [training] [INFO] training steps: 10300, Loss: 0.5748
+2026-01-01 02:50:39,560 [training] [INFO] training steps: 10400, Loss: 0.7188
+2026-01-01 02:50:42,906 [training] [INFO] training steps: 10500, Loss: 0.5403
+2026-01-01 02:50:46,252 [training] [INFO] training steps: 10600, Loss: 1.2482
+2026-01-01 02:50:49,592 [training] [INFO] training steps: 10700, Loss: 0.6240
+2026-01-01 02:50:49,953 [training] [INFO] epoch 21 train loss:0.6688706791284038
+2026-01-01 02:50:51,047 [training] [INFO] epoch 21 test loss:0.5677
+2026-01-01 02:50:51,048 [training] [INFO] start training epochs 22
+2026-01-01 02:50:54,612 [training] [INFO] training steps: 10800, Loss: 0.5649
+2026-01-01 02:50:57,963 [training] [INFO] training steps: 10900, Loss: 1.0163
+2026-01-01 02:51:01,328 [training] [INFO] training steps: 11000, Loss: 0.4147
+2026-01-01 02:51:04,686 [training] [INFO] training steps: 11100, Loss: 0.6491
+2026-01-01 02:51:08,033 [training] [INFO] training steps: 11200, Loss: 0.7434
+2026-01-01 02:51:08,731 [training] [INFO] epoch 22 train loss:0.641385659867642
+2026-01-01 02:51:09,875 [training] [INFO] epoch 22 test loss:0.7489
+2026-01-01 02:51:09,876 [training] [INFO] start training epochs 23
+2026-01-01 02:51:13,080 [training] [INFO] training steps: 11300, Loss: 0.4279
+2026-01-01 02:51:16,418 [training] [INFO] training steps: 11400, Loss: 0.7821
+2026-01-01 02:51:19,749 [training] [INFO] training steps: 11500, Loss: 0.9491
+2026-01-01 02:51:23,084 [training] [INFO] training steps: 11600, Loss: 0.4847
+2026-01-01 02:51:26,416 [training] [INFO] training steps: 11700, Loss: 0.8284
+2026-01-01 02:51:27,451 [training] [INFO] epoch 23 train loss:0.6485915589566325
+2026-01-01 02:51:28,591 [training] [INFO] epoch 23 test loss:0.5356
+2026-01-01 02:51:28,591 [training] [INFO] start training epochs 24
+2026-01-01 02:51:31,472 [training] [INFO] training steps: 11800, Loss: 0.8588
+2026-01-01 02:51:34,816 [training] [INFO] training steps: 11900, Loss: 0.7190
+2026-01-01 02:51:38,160 [training] [INFO] training steps: 12000, Loss: 0.5998
+2026-01-01 02:51:41,509 [training] [INFO] training steps: 12100, Loss: 0.8842
+2026-01-01 02:51:44,856 [training] [INFO] training steps: 12200, Loss: 0.3440
+2026-01-01 02:51:46,225 [training] [INFO] epoch 24 train loss:0.6381780757623561
+2026-01-01 02:51:47,364 [training] [INFO] epoch 24 test loss:0.6094
+2026-01-01 02:51:47,365 [training] [INFO] start training epochs 25
+2026-01-01 02:51:49,928 [training] [INFO] training steps: 12300, Loss: 0.4103
+2026-01-01 02:51:53,259 [training] [INFO] training steps: 12400, Loss: 0.6861
+2026-01-01 02:51:56,600 [training] [INFO] training steps: 12500, Loss: 0.7050
+2026-01-01 02:51:59,949 [training] [INFO] training steps: 12600, Loss: 0.6555
+2026-01-01 02:52:03,294 [training] [INFO] training steps: 12700, Loss: 0.5433
+2026-01-01 02:52:04,999 [training] [INFO] epoch 25 train loss:0.6257919403267842
+2026-01-01 02:52:06,131 [training] [INFO] epoch 25 test loss:0.4906
+2026-01-01 02:52:06,131 [training] [INFO] start training epochs 26
+2026-01-01 02:52:08,369 [training] [INFO] training steps: 12800, Loss: 0.4964
+2026-01-01 02:52:11,722 [training] [INFO] training steps: 12900, Loss: 0.5316
+2026-01-01 02:52:15,076 [training] [INFO] training steps: 13000, Loss: 0.4417
+2026-01-01 02:52:18,428 [training] [INFO] training steps: 13100, Loss: 0.5361
+2026-01-01 02:52:21,784 [training] [INFO] training steps: 13200, Loss: 0.5978
+2026-01-01 02:52:23,820 [training] [INFO] epoch 26 train loss:0.5996797737537646
+2026-01-01 02:52:24,926 [training] [INFO] epoch 26 test loss:0.7898
+2026-01-01 02:52:24,926 [training] [INFO] start training epochs 27
+2026-01-01 02:52:26,837 [training] [INFO] training steps: 13300, Loss: 0.8590
+2026-01-01 02:52:30,181 [training] [INFO] training steps: 13400, Loss: 0.4011
+2026-01-01 02:52:33,517 [training] [INFO] training steps: 13500, Loss: 0.5614
+2026-01-01 02:52:36,858 [training] [INFO] training steps: 13600, Loss: 0.5574
+2026-01-01 02:52:40,202 [training] [INFO] training steps: 13700, Loss: 0.5890
+2026-01-01 02:52:42,564 [training] [INFO] epoch 27 train loss:0.5964371716859294
+2026-01-01 02:52:43,687 [training] [INFO] epoch 27 test loss:0.6526
+2026-01-01 02:52:43,687 [training] [INFO] start training epochs 28
+2026-01-01 02:52:45,216 [training] [INFO] training steps: 13800, Loss: 0.5746
+2026-01-01 02:52:48,568 [training] [INFO] training steps: 13900, Loss: 0.3937
+2026-01-01 02:52:51,908 [training] [INFO] training steps: 14000, Loss: 0.5293
+2026-01-01 02:52:55,241 [training] [INFO] training steps: 14100, Loss: 0.4670
+2026-01-01 02:52:58,572 [training] [INFO] training steps: 14200, Loss: 0.6571
+2026-01-01 02:53:01,270 [training] [INFO] epoch 28 train loss:0.5827915012252097
+2026-01-01 02:53:02,392 [training] [INFO] epoch 28 test loss:0.4942
+2026-01-01 02:53:02,392 [training] [INFO] start training epochs 29
+2026-01-01 02:53:03,606 [training] [INFO] training steps: 14300, Loss: 0.5629
+2026-01-01 02:53:06,951 [training] [INFO] training steps: 14400, Loss: 0.6203
+2026-01-01 02:53:10,292 [training] [INFO] training steps: 14500, Loss: 0.6455
+2026-01-01 02:53:13,638 [training] [INFO] training steps: 14600, Loss: 0.5053
+2026-01-01 02:53:16,989 [training] [INFO] training steps: 14700, Loss: 0.4045
+2026-01-01 02:53:20,035 [training] [INFO] epoch 29 train loss:0.5911176004246169
+2026-01-01 02:53:21,149 [training] [INFO] epoch 29 test loss:0.4648
+2026-01-01 02:53:21,150 [training] [INFO] start training epochs 30
+2026-01-01 02:53:22,045 [training] [INFO] training steps: 14800, Loss: 0.6782
+2026-01-01 02:53:25,378 [training] [INFO] training steps: 14900, Loss: 0.3683
+2026-01-01 02:53:28,713 [training] [INFO] training steps: 15000, Loss: 0.4008
+2026-01-01 02:53:32,049 [training] [INFO] training steps: 15100, Loss: 0.6676
+2026-01-01 02:53:35,387 [training] [INFO] training steps: 15200, Loss: 0.3475
+2026-01-01 02:53:38,738 [training] [INFO] training steps: 15300, Loss: 0.4931
+2026-01-01 02:53:38,759 [training] [INFO] epoch 30 train loss:0.5678977537973254
+2026-01-01 02:53:39,905 [training] [INFO] epoch 30 test loss:0.4449
+2026-01-01 02:53:39,906 [training] [INFO] start training epochs 31
+2026-01-01 02:53:43,790 [training] [INFO] training steps: 15400, Loss: 0.3794
+2026-01-01 02:53:47,132 [training] [INFO] training steps: 15500, Loss: 0.2844
+2026-01-01 02:53:50,480 [training] [INFO] training steps: 15600, Loss: 0.4687
+2026-01-01 02:53:53,828 [training] [INFO] training steps: 15700, Loss: 0.4516
+2026-01-01 02:53:57,175 [training] [INFO] training steps: 15800, Loss: 0.3408
+2026-01-01 02:53:57,540 [training] [INFO] epoch 31 train loss:0.5674830599742777
+2026-01-01 02:53:58,683 [training] [INFO] epoch 31 test loss:0.4764
+2026-01-01 02:53:58,683 [training] [INFO] start training epochs 32
+2026-01-01 02:54:02,241 [training] [INFO] training steps: 15900, Loss: 0.4031
+2026-01-01 02:54:05,579 [training] [INFO] training steps: 16000, Loss: 0.4418
+2026-01-01 02:54:08,924 [training] [INFO] training steps: 16100, Loss: 0.5137
+2026-01-01 02:54:12,267 [training] [INFO] training steps: 16200, Loss: 0.6094
+2026-01-01 02:54:15,609 [training] [INFO] training steps: 16300, Loss: 0.4828
+2026-01-01 02:54:16,311 [training] [INFO] epoch 32 train loss:0.5545727238351223
+2026-01-01 02:54:17,450 [training] [INFO] epoch 32 test loss:0.5463
+2026-01-01 02:54:17,450 [training] [INFO] start training epochs 33
+2026-01-01 02:54:20,673 [training] [INFO] training steps: 16400, Loss: 0.4813
+2026-01-01 02:54:24,015 [training] [INFO] training steps: 16500, Loss: 0.6445
+2026-01-01 02:54:27,369 [training] [INFO] training steps: 16600, Loss: 0.5226
+2026-01-01 02:54:30,724 [training] [INFO] training steps: 16700, Loss: 0.4157
+2026-01-01 02:54:34,083 [training] [INFO] training steps: 16800, Loss: 0.6463
+2026-01-01 02:54:35,121 [training] [INFO] epoch 33 train loss:0.5350645479033975
+2026-01-01 02:54:36,247 [training] [INFO] epoch 33 test loss:0.6050
+2026-01-01 02:54:36,247 [training] [INFO] start training epochs 34
+2026-01-01 02:54:39,132 [training] [INFO] training steps: 16900, Loss: 0.5768
+2026-01-01 02:54:42,468 [training] [INFO] training steps: 17000, Loss: 0.3493
+2026-01-01 02:54:45,816 [training] [INFO] training steps: 17100, Loss: 0.4669
+2026-01-01 02:54:49,168 [training] [INFO] training steps: 17200, Loss: 0.4164
+2026-01-01 02:54:52,512 [training] [INFO] training steps: 17300, Loss: 0.5251
+2026-01-01 02:54:53,886 [training] [INFO] epoch 34 train loss:0.5423253751852933
+2026-01-01 02:54:55,026 [training] [INFO] epoch 34 test loss:0.5115
+2026-01-01 02:54:55,026 [training] [INFO] start training epochs 35
+2026-01-01 02:54:57,593 [training] [INFO] training steps: 17400, Loss: 0.4531
+2026-01-01 02:55:00,935 [training] [INFO] training steps: 17500, Loss: 0.6981
+2026-01-01 02:55:04,271 [training] [INFO] training steps: 17600, Loss: 0.4584
+2026-01-01 02:55:07,615 [training] [INFO] training steps: 17700, Loss: 0.7313
+2026-01-01 02:55:10,968 [training] [INFO] training steps: 17800, Loss: 0.4357
+2026-01-01 02:55:12,675 [training] [INFO] epoch 35 train loss:0.5423596889364953
+2026-01-01 02:55:13,800 [training] [INFO] epoch 35 test loss:0.4781
+2026-01-01 02:55:13,800 [training] [INFO] start training epochs 36
+2026-01-01 02:55:16,005 [training] [INFO] training steps: 17900, Loss: 0.4960
+2026-01-01 02:55:19,349 [training] [INFO] training steps: 18000, Loss: 0.6496
+2026-01-01 02:55:22,695 [training] [INFO] training steps: 18100, Loss: 0.7018
+2026-01-01 02:55:26,047 [training] [INFO] training steps: 18200, Loss: 0.7098
+2026-01-01 02:55:29,400 [training] [INFO] training steps: 18300, Loss: 0.5714
+2026-01-01 02:55:31,442 [training] [INFO] epoch 36 train loss:0.5339191665836409
+2026-01-01 02:55:32,570 [training] [INFO] epoch 36 test loss:0.5042
+2026-01-01 02:55:32,571 [training] [INFO] start training epochs 37
+2026-01-01 02:55:34,433 [training] [INFO] training steps: 18400, Loss: 0.4465
+2026-01-01 02:55:37,774 [training] [INFO] training steps: 18500, Loss: 0.7181
+2026-01-01 02:55:41,117 [training] [INFO] training steps: 18600, Loss: 0.4743
+2026-01-01 02:55:44,467 [training] [INFO] training steps: 18700, Loss: 0.5722
+2026-01-01 02:55:47,806 [training] [INFO] training steps: 18800, Loss: 0.4525
+2026-01-01 02:55:50,177 [training] [INFO] epoch 37 train loss:0.5035896613901737
+2026-01-01 02:55:51,301 [training] [INFO] epoch 37 test loss:0.4677
+2026-01-01 02:55:51,302 [training] [INFO] start training epochs 38
