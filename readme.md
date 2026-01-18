@@ -6,7 +6,8 @@
 
 The results of this paper are displayed in the interactive app below: 
 
-[link 1] https://huggingface.co/spaces/wendian02/UnetbathyPlusPlus-InterApp or
+[link 1] https://huggingface.co/spaces/wendian02/UnetbathyPlusPlus-InterApp
+
 [link 2] https://bathymapping-unetbathypp.streamlit.app/
 
 
