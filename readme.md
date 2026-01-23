@@ -12,6 +12,7 @@ The results of this paper are displayed in the interactive app below:
 
 
 
+Download all model weights from: https://huggingface.co/datasets/wendian02/BathyUNetPlusPlus-model-weights/tree/main
 
 ---
 

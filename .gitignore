@@ -6,7 +6,6 @@ __pycache__
 
 # /logs
 /dataset
-/save_model
 
 *.nc
 *.pth
@@ -28,6 +27,6 @@ wandb
 # block
 configs
 .cursor
-./save_model
+
 
 ._*
