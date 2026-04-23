@@ -10,6 +10,7 @@ The results of this paper are displayed in the interactive app below:
 
 🔗 https://huggingface.co/spaces/wendian02/UnetbathyPlusPlus-InterApp
 
+![app UI](img/app-ui.png)
 
 
 Download all model weights from: https://huggingface.co/datasets/wendian02/BathyUNetPlusPlus-model-weights/tree/main

@@ -9,7 +9,7 @@ __pycache__
 
 *.nc
 *.pth
-*.png
+!img/*.png
 *.csv
 *.npz
 *.npy
