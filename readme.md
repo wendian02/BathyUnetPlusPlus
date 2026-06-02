@@ -4,11 +4,7 @@
 > **BathyUNet++: A Center-Focused Receptive-Field Network for High-resolution Bathymetry Mapping from SuperDove Imagery**
 
 
-The results of this paper are displayed in the interactive app below: 
-
-🔗 https://bathymapping-unetbathypp.streamlit.app/
-
-🔗 https://huggingface.co/spaces/wendian02/UnetbathyPlusPlus-InterApp
+The detail results of this paper are displayed in the interactive app [click](http://165.22.229.35/)
 
 ![app UI](img/app-ui.png)
 
